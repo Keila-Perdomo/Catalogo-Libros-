@@ -6,8 +6,8 @@ Este programa en Java permite gestionar un catálogo de libros, incluyendo autor
 ¿Cómo usarlo?
 Clona o descarga este repositorio.
 Abre el proyecto en tu IDE favorito (por ejemplo, IntelliJ o Eclipse) o en la terminal.
-Compila y ejecuta el programa con Maven:
 
+Compila y ejecuta el programa con Maven:
 mvn compile
 mvn exec:java
 
